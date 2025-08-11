@@ -1,1 +1,1 @@
-# Bauchi-worhshop
+# Bauchi-workshop
